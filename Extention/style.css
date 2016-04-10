@@ -1,0 +1,27 @@
+.wrapper {
+	width: 500px;
+	min-height: 1000px;
+	padding: 10px;
+}
+
+.browser-choice {
+	display: inline-block;
+	float:left;
+	width: 30px;
+	min-height: 30px;
+}
+
+.search-request {
+	display: inline-block;
+	width: 300px;
+	min-height: 30px;
+	
+}
+
+.ok {
+	display: inline-block;
+	float: right;
+	min-height: 30px;
+}
+
+
